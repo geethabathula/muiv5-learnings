@@ -11,5 +11,8 @@
 - TextField
 - Select
 - Radio
+- Checkbox
+- Rating
+- Switch(Toggle)
 
 Happy Learning MUI v5

@@ -1,5 +1,8 @@
 import React from "react";
-import RadioEx from "./components/RadioEx";
+import RatingEx from "./components/RatingEx";
+// import CheckBoxEx from "./components/CheckBoxEx";
+// import SwitchEx from "./components/SwitchEx";
+// import RadioEx from "./components/RadioEx";
 // import SelectEx from "./components/SelectEx";
 // import TextFieldEx from "./components/TextFieldEx";
 // import TypographyEx from "./components/TypographyEx";
@@ -12,7 +15,10 @@ function App() {
       {/* <ButtonEx /> */}
       {/* <TextFieldEx /> */}
       {/* <SelectEx /> */}
-      <RadioEx />
+      {/* <RadioEx /> */}
+      {/* <CheckBoxEx /> */}
+      {/* <SwitchEx /> */}
+      <RatingEx />
     </div>
   );
 }
