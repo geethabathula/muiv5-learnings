@@ -14,5 +14,6 @@
 - Checkbox
 - Rating
 - Switch(Toggle)
+- Autocomplete
 
 Happy Learning MUI v5

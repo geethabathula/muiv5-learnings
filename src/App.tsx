@@ -1,5 +1,6 @@
 import React from "react";
 import RatingEx from "./components/RatingEx";
+import AutoCompleteEx from "./components/AutoCompleteEx";
 // import CheckBoxEx from "./components/CheckBoxEx";
 // import SwitchEx from "./components/SwitchEx";
 // import RadioEx from "./components/RadioEx";
@@ -18,7 +19,8 @@ function App() {
       {/* <RadioEx /> */}
       {/* <CheckBoxEx /> */}
       {/* <SwitchEx /> */}
-      <RatingEx />
+      {/* <RatingEx /> */}
+      <AutoCompleteEx />
     </div>
   );
 }
