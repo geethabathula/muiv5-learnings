@@ -20,7 +20,7 @@ function App() {
       {/* <CheckBoxEx /> */}
       {/* <SwitchEx /> */}
       {/* <RatingEx /> */}
-      <AutoCompleteEx />
+      {/* <AutoCompleteEx /> */}
     </div>
   );
 }
