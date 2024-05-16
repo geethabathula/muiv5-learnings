@@ -1,6 +1,9 @@
 import React from "react";
-import RatingEx from "./components/RatingEx";
-import AutoCompleteEx from "./components/AutoCompleteEx";
+// import RatingEx from "./components/RatingEx";
+// import AutoCompleteEx from "./components/AutoCompleteEx";
+import BoxEx from "./components/BoxEx";
+import GridEx from "./components/GridEx";
+import { MasonryEx } from "./components/MasonryEx";
 // import CheckBoxEx from "./components/CheckBoxEx";
 // import SwitchEx from "./components/SwitchEx";
 // import RadioEx from "./components/RadioEx";
@@ -20,7 +23,9 @@ function App() {
       {/* <CheckBoxEx /> */}
       {/* <SwitchEx /> */}
       {/* <RatingEx /> */}
-      {/* <AutoCompleteEx /> */}
+      <BoxEx />
+      <GridEx />
+      <MasonryEx />
     </div>
   );
 }
